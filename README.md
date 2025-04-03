@@ -1,5 +1,3 @@
-# Medical-processor
-
 # Medical Claims Document Processor
 
 An intelligent document processing system that extracts and analyzes medical claims using Azure Form Recognizer and Google's Gemini AI.
