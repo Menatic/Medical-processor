@@ -1,6 +1,6 @@
 # Medical Claims Document Processor
 
-An intelligent document processing system that extracts and analyzes medical claims using Azure Form Recognizer and Google's Gemini AI.
+An intelligent document processing system that extracts and analyzes medical claims using Azure Form Recognizer and Google's Gemini AI. (to view the backend code change the branch and the frontend code the other repo provided)
 
 ## Features
 
